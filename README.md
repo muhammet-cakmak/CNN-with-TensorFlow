@@ -47,3 +47,9 @@ statistical technique is used to calculate avarage loss on this technique.
 
 # Conclusion
 CNN is a very powerful algorithm.I make two different model as basic CNN and CNN with transfer learning. I used pre-trained weights of the Inception model and freezed all layers which means that they didnot get tunned. As we can see confusion matrices above, the complex CNN model  is very capable to distinguish images and better than the basic one. **Test accuracy of the complex model** reached **90%** while the basic one reached **83%**. But still there is way we need to step up. Hyperparameter tuning is the heart of an CNN algorithms and we can use different range of parameters to make the CNN model tuning better. Tuning takes very long time therefore I suggest you to use **GPU**. 
+
+
+
+# Some Images and Their Predictions
+
+![](imaes_and_predictions.png)
