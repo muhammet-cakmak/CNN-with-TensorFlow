@@ -4,4 +4,4 @@
 
      
  ### Confusion matrix of CNN with transfer learning 
- ![250x250](confusion_matrix_of_transfer_learning.png=250x250) 
+ ![250x250](confusion_matrix_of_transfer_learning.png) 
