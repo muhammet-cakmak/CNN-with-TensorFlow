@@ -1,6 +1,6 @@
 # Convolution Neural Network(CNN) with TensorFlow and Transfer Learning
 ### Confusion matrix of the basic CNN                             
-![good|250x250](Confusion_matrix_of_the_basic_CNN.png)                  
+![](Confusion_matrix_of_the_basic_CNN.png | width=48)                  
 
      
  ### Confusion matrix of CNN with transfer learning 
